@@ -26,3 +26,6 @@ button{
   transition: .4s;
 
 }
+button:hover{
+  background-color: blue;
+}
